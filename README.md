@@ -9,7 +9,7 @@ Note: This is my New Account ( Old account was compromised)
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,mongodb,git,figma,bash,nextjs,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,git,figma,bash,nextjs,vscode&theme=light)
 
 <!-- markdownlint-disable MD033 -->
 
