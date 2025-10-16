@@ -4,7 +4,6 @@
 
 A Student, Web Developer, Tech Enthusiast from India. 💻💖☕
 
-Note: This is my New Account ( Old account was compromised)
 
 
 ## 🔧 Technologies
